@@ -1,2 +1,2 @@
 # proTips
-this is an exam seating arrangment system with both the admin and student sign in options
+new to github, dont worry. it gets easy.
